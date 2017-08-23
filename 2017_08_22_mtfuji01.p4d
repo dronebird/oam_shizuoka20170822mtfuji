@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pix4dmapper>
+    <options>
+        <loadTemplate>3d-maps</loadTemplate>
+    </options>
+    <inputs>
+        <images>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05581.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05582.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05583.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05584.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05585.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05586.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05587.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05588.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05589.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05590.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05591.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05592.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05593.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05594.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05595.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05596.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05597.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05598.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05599.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05600.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05601.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05602.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05603.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05604.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05605.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05606.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05607.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05608.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05609.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05610.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05611.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05612.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05613.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05614.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05615.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05616.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05617.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05618.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05619.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05620.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05621.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05622.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05623.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05624.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05625.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05626.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05627.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05628.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05629.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05630.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05631.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05632.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05633.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05634.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05635.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05636.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05637.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05638.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05639.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-08-22_mtfuji01/img/DSC05640.JPG"/>
+        </images>
+        <processingArea>
+            <geoCoord2D lat="35.3371219800" lng="138.7915058600"/>
+            <geoCoord2D lat="35.3343953200" lng="138.7907507600"/>
+            <geoCoord2D lat="35.3333934600" lng="138.7962050900"/>
+            <geoCoord2D lat="35.3361201500" lng="138.7969601900"/>
+        </processingArea>
+    </inputs>
+</pix4dmapper>
