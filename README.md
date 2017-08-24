@@ -12,7 +12,7 @@
 https://github.com/dronebird/oam_shizuoka20170822mtfuji/tree/master/img
 
 ## XYZタイル画像 in 御殿場口五合目 2017/08/22 
-* z15-21 uploaded, z22 are uploading now...
+* z15-22 uploaded
 
 `https://dronebird.github.io/oam_shizuoka20170822mtfuji/xyztiles/{z}/{x}/{y}.png`
 
