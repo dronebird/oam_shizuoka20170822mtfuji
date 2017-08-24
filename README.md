@@ -12,3 +12,9 @@ https://github.com/dronebird/oam_shizuoka20170822mtfuji/tree/master/img
 * z15-19 uploaded, z20-22 are uploading now...
 
 `https://dronebird.github.io/oam_shizuoka20170822mtfuji/xyztiles/{z}/{x}/{y}.png`
+
+
+## 著作権
+© CrisisMappers Japan/DRONEBIRD, CC BY 4.0/OSM traceable
+
+OSM Source TAG: `source = oam_shizuoka20170822mtfuji`
