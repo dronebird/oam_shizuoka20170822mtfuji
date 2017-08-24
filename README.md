@@ -7,3 +7,7 @@
 
 ## 撮影スチル写真（Exif/GeoTag含む）
 https://github.com/dronebird/oam_shizuoka20170822mtfuji/tree/master/img
+
+## XYZタイル画像 in 御殿場口五合目 2017/08/22 
+
+`https://dronebird.github.io/oam_shizuoka20170822mtfuji/xyztiles/{z}/{x}/{y}.png`
